@@ -2,12 +2,6 @@
 # 🚗 AutoShield AI  
 ### 🔥 Predictive Supply Chain & Smart Manufacturing Intelligence Platform
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Industry-4.0-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Automotive-Tech-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge">
-</p>
 
 ---
 
@@ -141,7 +135,6 @@ Theme: AI for Resilient Automotive Supply Chains & Smart Manufacturing
 
 ---
 
-<p align="center">
   🚗 Built with AI • Data • Innovation • Smart Manufacturing 🚗
-</p>
+
 ````
