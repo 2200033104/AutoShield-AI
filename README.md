@@ -100,17 +100,9 @@ The platform integrates:
 - Predictive Maintenance
 - Generative AI Assistant
 
----
-
-## Screenshots
-Add project screenshots inside the `/screenshots` folder.
 
 ---
 
 ## Contributors
 Team AutoShield AI
 
----
-
-## License
-MIT License
