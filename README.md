@@ -1,140 +1,112 @@
-````markdown
-# 🚗 AutoShield AI  
-### 🔥 Predictive Supply Chain & Smart Manufacturing Intelligence Platform
+# AutoShield AI
+### Predictive Supply Chain & Smart Manufacturing Intelligence Platform
 
+## Overview
+AutoShield AI is an AI-powered platform designed to improve supply chain resilience and manufacturing efficiency in the automotive industry using Machine Learning, Computer Vision, and Predictive Analytics.
 
----
-
-## 🌟 Overview
-AutoShield AI is an intelligent AI-driven platform designed to revolutionize the automotive manufacturing ecosystem by predicting supply chain disruptions, detecting production defects, and optimizing factory operations in real time.
-
-The platform combines:
-- 🤖 Artificial Intelligence
-- 📊 Predictive Analytics
-- 👁️ Computer Vision
-- ⚡ Real-Time Monitoring
-- 📈 Smart Manufacturing Insights
+The system helps manufacturers proactively detect risks, forecast disruptions, monitor production quality, and optimize operational performance in real time.
 
 ---
 
-# 🚨 Problem Statement
-The automotive industry faces:
-- Supply chain disruptions
-- Inventory instability
-- Manufacturing defects
+## Problem Statement
+Automotive supply chains are highly vulnerable to:
+- Material shortages
+- Logistics disruptions
+- Supplier risks
 - Production inefficiencies
-- Supplier dependency risks
+- Quality defects
 
-These challenges increase operational costs and reduce production efficiency.
+These challenges increase operational costs and impact manufacturing continuity.
 
 ---
 
-# 💡 Our Solution
+## Proposed Solution
 AutoShield AI provides:
-✅ AI-powered risk prediction  
-✅ Supplier intelligence analytics  
-✅ Inventory demand forecasting  
-✅ Computer vision defect detection  
-✅ Real-time quality monitoring  
-✅ Smart manufacturing dashboards  
+- Supply chain disruption prediction
+- Supplier risk analytics
+- Inventory demand forecasting
+- AI-powered defect detection
+- Real-time manufacturing monitoring
+- Intelligent decision support dashboards
 
 ---
 
-# ✨ Key Features
-
-| Feature | Description |
-|---|---|
-| 🔍 Supply Chain Risk Prediction | Predicts disruptions using AI models |
-| 📦 Inventory Forecasting | Forecasts demand and stock levels |
-| 👁️ Defect Detection | Detects manufacturing defects using OpenCV |
-| 📊 Smart Dashboards | Real-time analytics and KPI monitoring |
-| ⚙️ Supplier Analytics | Supplier risk and performance scoring |
-| 🚨 Intelligent Alerts | AI-generated recommendations and alerts |
+## Key Features
+- AI-based risk prediction
+- Computer vision quality inspection
+- Inventory forecasting
+- Smart analytics dashboards
+- Manufacturing KPI monitoring
+- Real-time alerts and recommendations
 
 ---
 
-# 🛠️ Tech Stack
+## Tech Stack
 
-<div align="center">
+### Frontend
+- React.js
+- Tailwind CSS
 
-| Category | Technologies |
-|---|---|
-| 🎨 Frontend | ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| ⚡ Backend | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
-| 🤖 AI & ML | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| 👁️ Computer Vision | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
-| 🗄️ Database | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-| 📈 Visualization | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
+### Backend
+- FastAPI / Flask
 
-</div>
+### AI & ML
+- Python
+- TensorFlow
+- Scikit-learn
+- OpenCV
 
----
+### Database
+- PostgreSQL
 
-# 🧠 AI Modules
-
-## 🔮 Supply Chain Risk Prediction
-Predicts supply shortages and logistics disruptions using Machine Learning.
-
-## 📦 Inventory Forecasting
-Forecasts inventory demand using historical production data.
-
-## 👁️ AI Defect Detection
-Uses Computer Vision to identify manufacturing defects in real time.
-
-## ⚙️ Smart Manufacturing Analytics
-Monitors factory KPIs, production trends, and operational efficiency.
+### Visualization
+- Streamlit / Power BI
 
 ---
 
-# 📊 Business Impact
-
-✅ Reduced supply chain disruptions  
-✅ Improved manufacturing quality  
-✅ Lower operational costs  
-✅ Faster decision-making  
-✅ Industry 4.0 transformation support  
-
----
-
-# 🏗️ Project Structure
-
-```bash
-AutoShield-AI/
-│
-├── frontend/
-├── backend/
-├── ai-models/
-├── datasets/
-├── dashboards/
-├── docs/
-├── screenshots/
-├── notebooks/
-├── README.md
-└── requirements.txt
-```
+## System Architecture
+The platform integrates:
+- Data ingestion pipelines
+- Machine Learning prediction models
+- Computer Vision defect detection
+- Real-time dashboards
+- Analytics & reporting systems
 
 ---
 
-# 🚀 Future Scope
-- IoT-based factory monitoring
-- Digital Twin integration
-- Blockchain supplier traceability
-- Predictive maintenance
-- Generative AI manufacturing assistant
+## Project Modules
+1. Supply Chain Risk Prediction
+2. Inventory Forecasting
+3. Defect Detection System
+4. Supplier Analytics
+5. Manufacturing Monitoring Dashboard
+6. AI Recommendation Engine
 
 ---
 
-# 👨‍💻 Contributors
-### Team AutoShield AI
+## Business Impact
+- Reduces supply chain disruptions
+- Improves manufacturing efficiency
+- Minimizes defect rates
+- Enhances decision-making
+- Supports Industry 4.0 transformation
 
 ---
 
-# ⭐ Hackathon Submission
-ET AutoTech Hackathon 2026  
-Theme: AI for Resilient Automotive Supply Chains & Smart Manufacturing
+## Future Scope
+- IoT Integration
+- Digital Twin Technology
+- Blockchain-based Supplier Tracking
+- Predictive Maintenance
+- Generative AI Assistant
 
 ---
 
-  🚗 Built with AI • Data • Innovation • Smart Manufacturing 🚗
 
-````
+## Contributors
+Team AutoShield AI
+
+---
+
+## License
+MIT License
